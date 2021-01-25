@@ -30,7 +30,7 @@
 *.exe
 *.out
 *.app
-/.vs/
+/.*/
 /Debug/
 /Release/
 PVZCheater.vcxproj.user
