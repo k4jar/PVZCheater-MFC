@@ -31,7 +31,6 @@
 *.out
 *.app
 /.*/
-/Debug/
-/Release/
 PVZCheater.vcxproj.user
 .gitignore
+/bin/
